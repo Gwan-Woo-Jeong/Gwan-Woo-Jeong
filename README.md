@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20Gwan%20Woo%20&fontAlign=70&fontSize=50&textBg=true&desc=Hello,%20my%20name%20is&descAlign=30&descAlignY=40&descSize=45&height=250&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20Gwan%20Woo%20&fontAlign=70&fontSize=50&textBg=true&desc=Hello,%20my%20name%20is&descAlign=30&descAlignY=40&descSize=45&height=250&fontAlignY=40&animation=twinkling"/>
 
 <p>👋🏻 Hi, I am a <strong>front-end developer</strong> working with <strong>React JS</strong>!</p>
 <h3>About Me</h3>
