@@ -23,14 +23,14 @@
 <p>These are techs I've used at least once on my projects.</p>
 <h4>Language</h4>
 <div>
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" style="max-width:100%;">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat-square&logo=JavaScript&logoColor=black" style="max-width:100%;">
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=TypeScript&amp;logoColor=white" style="max-width:100%;">
 </div>
 <h4>Front-end</h4>
 <div>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" style="max-width:100%;">
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" style="max-width:100%;">
-<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=React&amp;logoColor=black" style="max-width:100%;">
+<img alt="React" src="https://img.shields.io/badge/React-55D7FA?style=flat-square&amp;logo=React&amp;logoColor=black" style="max-width:100%;">
 <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&amp;logo=redux&amp;logoColor=white" style="max-width:100%;">
 <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&amp;logo=Sass&amp;logoColor=white" style="max-width:100%;">
 </div>
