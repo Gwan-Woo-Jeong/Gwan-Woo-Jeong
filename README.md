@@ -31,7 +31,9 @@
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" style="max-width:100%;">
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" style="max-width:100%;">
 <img alt="React" src="https://img.shields.io/badge/React-55D7FA?style=flat-square&amp;logo=React&amp;logoColor=black" style="max-width:100%;">
+<img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&amp;logo=react&logoColor=61DAFB" style="max-width:100%;">
 <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&amp;logo=redux&amp;logoColor=white" style="max-width:100%;">
+<img alt="Styled-Components" src="https://img.shields.io/badge/Styled--Components-7F213F?style=flat-square&amp;logo=Styledcomponents&amp;logoColor=white" style="max-width:100%;">
 <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&amp;logo=Sass&amp;logoColor=white" style="max-width:100%;">
 </div>
 <h4>Back-end</h4>
@@ -43,7 +45,7 @@
 </div>
 <h3>Tools</h3>
 <div>
-<img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&amp;logo=Amazon AWS&amp;logoColor=white" style="max-width:100%;">
+<img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&amp;logo=amazon-aws&logoColor=white" style="max-width:100%;">
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=Git&amp;logoColor=white" style="max-width:100%;">
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&amp;logo=postman&amp;logoColor=white" style="max-width:100%;">
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&amp;logo=figma&amp;logoColor=white" style="max-width:100%;">
