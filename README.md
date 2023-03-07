@@ -57,6 +57,11 @@
 <a href="https://velog.io/@gwanuuoo"><img alt="Blog" src="https://img.shields.io/badge/Blog-24cc94?style=flat-square&amp;logo=Vimeo&amp;logoColor=white" style="max-width:100%;"></a>
 <img alt="Gmail" src="https://img.shields.io/badge/gwanuuoo@gmail.com-EA4335?style=flat-square&amp;logo=Gmail&amp;logoColor=white" style="max-width:100%;">
 </div>
-<div align=right>
+
+&nbsp;
+
+<div>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGwan-Woo-Jeong&count_bg=%2372BD39&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=true)](https://hits.seeyoufarm.com)
+
 </div>
