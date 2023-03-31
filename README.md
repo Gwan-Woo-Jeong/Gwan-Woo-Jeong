@@ -54,7 +54,7 @@
 </div>
 <h3>Contact</h3>
 <div>
-<a href="https://velog.io/@gwanuuoo"><img alt="Blog" src="https://img.shields.io/badge/Blog-24cc94?style=flat-square&amp;logo=Vimeo&amp;logoColor=white" style="max-width:100%;"></a>
+<a href="https://gwan-woo-jeong.github.io"><img alt="Blog" src="https://img.shields.io/badge/Blog-24cc94?style=flat-square&amp;logo=Vimeo&amp;logoColor=white" style="max-width:100%;"></a>
 <img alt="Gmail" src="https://img.shields.io/badge/gwanuuoo@gmail.com-EA4335?style=flat-square&amp;logo=Gmail&amp;logoColor=white" style="max-width:100%;">
 </div>
 
